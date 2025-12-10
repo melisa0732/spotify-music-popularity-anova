@@ -4,7 +4,7 @@ Bu proje, **Endüstri Mühendisliği - Deney Tasarımı (DOE)** dersi kapsamınd
 
 ## Proje Sunumu
 Analiz sonuçlarını ve detaylı yorumları içeren sunumu incelemek için:
-**[Spotify Verilerinde Tempo ve Mod Etkileşiminin Popülerliğe Etkisi (PDF)](Spotify Verilerinde Tempo ve Mod Etkileşiminin Popülerliğe Etkisi.pdf)**
+**[Spotify Verilerinde Tempo ve Mod Etkileşiminin Popülerliğe Etkisi (PDF)](Spotify_Sunum.pdf)**
 ## Amaç
 Spotify'daki şarkıların başarısında **Tempo (BPM)** ve **Mod (Major/Minor)** faktörlerinin etkisini ve bu iki faktörün etkileşimini **Varyans Analizi (ANOVA)** ile test etmek.
 
